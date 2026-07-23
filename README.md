@@ -1,7 +1,5 @@
 # Hi 👋, I'm Mohamed Ramadan
 
-[![Profile Views](https://komarev.com/ghpvc/?username=Mohamed-Ramadan1&color=blueviolet&style=flat-square)](https://github.com/Mohamed-Ramadan1)
-
 **A passionate Backend Engineer** who loves building scalable systems and clean APIs.
 
 ---
@@ -12,6 +10,7 @@ I'm a Backend Software Engineer based in Cairo, Egypt with 3+ years of experienc
 
 📍 Currently diving deep into **Backend Development & System Design**  
 💬 Ask me about **NestJS · TypeScript · PostgreSQL · Docker · REST APIs**  
+📫 **mohamedramadan11b@gmail.com**  
 📄 [View my Resume](https://drive.google.com/file/d/1GtA-z_juGUMTb3QGY0NsOPSKs-2S3aMr/view?usp=sharing)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ramadan-758555236/)
