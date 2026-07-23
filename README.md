@@ -6,8 +6,12 @@
 
 ---
 
-📍 Currently diving deep into **Backend Development**  
-💬 Ask me about **React · Node.js · Express · MERN Stack**  
+## 👨‍💻 About Me
+
+I'm a Backend Software Engineer based in Cairo, Egypt with 3+ years of experience building scalable server-side applications and REST APIs. I care deeply about clean architecture, maintainable code, and turning complex business requirements into simple, reliable systems. When I'm not writing code, you'll find me exploring DevOps tools, cloud infrastructure, and sharpening my software engineering fundamentals.
+
+📍 Currently diving deep into **Backend Development & System Design**  
+💬 Ask me about **NestJS · TypeScript · PostgreSQL · Docker · REST APIs**  
 📫 Reach me at **mohamedramadan11b@gmail.com**  
 📄 [View my Resume](https://drive.google.com/file/d/1GtA-z_juGUMTb3QGY0NsOPSKs-2S3aMr/view?usp=sharing)
 
@@ -25,6 +29,7 @@
 ### Backend & API
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
@@ -46,11 +51,6 @@
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Ramadan1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Ramadan1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mohamed-Ramadan1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
