@@ -12,8 +12,11 @@ I'm a Backend Software Engineer based in Cairo, Egypt with 3+ years of experienc
 
 📍 Currently diving deep into **Backend Development & System Design**  
 💬 Ask me about **NestJS · TypeScript · PostgreSQL · Docker · REST APIs**  
-📫 Reach me at **mohamedramadan11b@gmail.com**  
 📄 [View my Resume](https://drive.google.com/file/d/1GtA-z_juGUMTb3QGY0NsOPSKs-2S3aMr/view?usp=sharing)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ramadan-758555236/)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedramadan11b@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamed-Ramadan1)
 
 ---
 
@@ -55,11 +58,3 @@ I'm a Backend Software Engineer based in Cairo, Egypt with 3+ years of experienc
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Mohamed-Ramadan1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
-
-## 🔗 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamed-ramadan-758555236/)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mohamedramadan11b@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Mohamed-Ramadan1)
