@@ -6,7 +6,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a Backend Software Engineer based in Cairo, Egypt with 3+ years of experience building scalable server-side applications and REST APIs. I care deeply about clean architecture, maintainable code, and turning complex business requirements into simple, reliable systems. When I'm not writing code, you'll find me exploring DevOps tools, cloud infrastructure, and sharpening my software engineering fundamentals.
+I'm a Backend Software Engineer based in Cairo, Egypt with 2+ years of experience building scalable server-side applications and REST APIs. I care deeply about clean architecture, maintainable code, and turning complex business requirements into simple, reliable systems. When I'm not writing code, you'll find me exploring DevOps tools, cloud infrastructure, and sharpening my software engineering fundamentals.
 
 📍 Currently diving deep into **Backend Development & System Design**  
 💬 Ask me about **NestJS · TypeScript · PostgreSQL · Docker · REST APIs**  
